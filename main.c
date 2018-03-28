@@ -2,6 +2,6 @@
 
 int main(int argc, char const *argv[])
 {
-    /* karola nie ma*/
+    /* karola nie ma a pawol tak*/
     return 0;
 }
